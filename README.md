@@ -2,7 +2,7 @@
 
 # Data Analyst
 
-#### Technical Skills: Tableau, SQL, Google Analytics,
+#### Technical Skills: Tableau, SQL, Google Analytics
 
 ## Education 			        		
 - Bachelor of Applied Science in Industrial Engineering; Minor in Management and Business Start-Up (_2022_)
