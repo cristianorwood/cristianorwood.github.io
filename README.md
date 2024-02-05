@@ -7,7 +7,7 @@
 ## Education 			        		
 - Bachelor of Applied Science in Industrial Engineering; Minor in Management and Business Start-Up (_2022_)
 
-- ## Work Experience
+ ## Work Experience
 **Digital Marketing Lead @ Yeyeko Inc. (_2022 - Present_)**
 - Developed and executed comprehensive communications and media strategies, resulting in a 35% reach increase, 15% engagement increase, and a 8% audience growth, bringing overall brand awareness.
 - Presented data-backed reporting on digital marketing budget, campaigns, and dashboards to leadership to enable analytics-based decision making.
